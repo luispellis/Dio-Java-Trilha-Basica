@@ -1,5 +1,17 @@
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        
+        // TODO: Declarando as variáveis 
+
+        String userName;
+        double numeroConta;
+        double agenciaConta;
+        double saldoConta;
+
+        
+
+
+
+
     }
 }
